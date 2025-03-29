@@ -1,4 +1,4 @@
-#Sesión 2: Introducción a JavaScript y Testing
+# Sesión 2: Introducción a JavaScript y Testing
 
 ## Fecha 25-03-2025
 
