@@ -2,10 +2,10 @@
 
 ## Fecha 25-03-2025
 
-##Objetivo de la sesión
+## Objetivo de la sesión
 
--Comprender el condicionales y ciclos de Javascript
+- Comprender el condicionales y ciclos de Javascript
 
-##Ejercicio 2
+## Ejercicio 2
 
--Hacer ejemplos de los ciclos en javascript y ejemplos de como usarlo.
+- Hacer ejemplos de los ciclos en javascript y ejemplos de como usarlo.

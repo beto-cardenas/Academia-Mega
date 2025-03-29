@@ -2,11 +2,11 @@
 
 ## Fecha 27-03-2025
 
-##Objetivo de la sesión
+## Objetivo de la sesión
 
--Comprender el lenguaje HTML y sus usos
+- Comprender el lenguaje HTML y sus usos
 
-##Ejercicio 4
+## Ejercicio 4
 
--Entender los componentes del HTML.
--Entender los ejemplos del html.
+- Entender los componentes del HTML.
+- Entender los ejemplos del html.
