@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+</body>
+<script>
+    // console.log("inicio");
+    // setTimeout(() => {
+    //    console.log("Esto se ejecuta despues de 5 segundos");
+    // }, 5000);
+    // console.log("fin");
+
+    //Promesa
+    // const promesa = new Promise((resolve,reject) =>{
+    //     setTimeout(() => {
+    //        let exito = true;
+    //        if(exito) resolve("Promesa Resuelta")
+    //        else reject("Promesa Rechazada")
+    //     }, timeout);
+    // })
+
+    // console.log("Bienvenidos a la pagina web");
+    // console.log("Primera Tarea");
+
+    // const promesa = new Promise((resolve, reject) =>{
+    //     //Simular la api
+    //     setTimeout(()=>{
+    //         let exito = true;
+
+    //         if(exito) resolve("Segunda Tarea") 
+
+    //         else reject("Promesa Rechazada");
+        
+    //         },10000);
+    //     });
+
+    // console.log("Tercera Tarea")
+    // promesa
+    //     .then(resultado => console.log(resultado))
+    //     .catch(error => console.log(error))
+    //     .finally(console.log("Se finalizo .-."));
+    // promesa.then(resultado => console.log(resultado))
+    // console.log("Cuarta Tarea")
+
+    //Async/Await
+
+    async function obtenerDatos(){
+    try{
+        console.log("Obteniendo datos ... ")
+        let respuesta = await Promise(resolve =>
+            setTimeout(()=> resolve("Datos recibidos"),4000))
+            console.log(respuesta)        
+        }catch(error){
+            console.error("Error:", error);
+        }
+    }        
+    
+    obtenerDatos();
+    console.log("Este mensaje se muestran antes de que lleguen los datos");
+</script>
+</html>

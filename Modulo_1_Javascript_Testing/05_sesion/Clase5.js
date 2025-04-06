@@ -9,7 +9,9 @@ name_page.textContent = "Pagina DOM"
 console.log(name_page);
 
 
-
+document.getElementById("cambiarTexto").addEventListener("click",function(){
+    document.getElementById("titulo").textContent = "Texto cambiado con un boton";
+});
 
 
 
