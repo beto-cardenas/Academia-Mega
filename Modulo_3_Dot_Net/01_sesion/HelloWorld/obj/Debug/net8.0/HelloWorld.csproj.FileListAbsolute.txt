@@ -1,0 +1,15 @@
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Liderly\Academia-Mega\Modulo_3_Dot_Net\01_sesion\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

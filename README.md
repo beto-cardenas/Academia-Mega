@@ -128,3 +128,6 @@ Para que tu entrega sea considerada válida y sea evaluada:
 ## Contacto
 
 Para cualquier duda o consulta, compártela a través de la comunidad de Discord
+
+- [ ] Opciones
+   - [x] Opciones
